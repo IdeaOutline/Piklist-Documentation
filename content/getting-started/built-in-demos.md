@@ -9,6 +9,8 @@ Piklist allows you to work with WordPress like never before. At its basic level,
 2. Once installed, activate Piklist. You will see a Piklist item in your WordPress menu.
 3. Now you can start adding power to your theme and plugins. Check out our tutorials for a detailed overview.
 
+>> ADD A LINK TO THE TUTORIALS AT "Check out our tutorials for a detailed overview." <<
+
 ### Included Demos
 You can get a good overview of what Piklist is capable of by activating the included “Piklist Demos” add-on:
 
